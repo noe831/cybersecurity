@@ -1,5 +1,10 @@
 # Cybersecurity
 
+Understand the importance of cybersecurity practices and their impact for organizations.
+Identify common risks, threats, and vulnerabilities, as well as techniques to mitigate them.
+Protect networks, devices, people, and data from unauthorized access and cyberattacks using Security Information and Event Management (SIEM) tools.
+Gain hands-on experience with Python, Linux, and SQL.
+
 ### Objectives
 - Preparation for the CompTIA Security+ exam, the industry-leading certification for cybersecurity roles
 - Applied Learning Project
